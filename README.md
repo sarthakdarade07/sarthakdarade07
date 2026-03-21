@@ -70,11 +70,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdarade07&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 </p>
 
-<!--
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdarade07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
 </p>
--->
+
 
 ---
 
@@ -84,17 +84,7 @@
   <img src="https://leetcard.jacoblin.cool/Sarthak_Darade?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakdarade07&theme=tokyo-night&hide_border=true" />
-</p>
-
-
-
----
+--- 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
