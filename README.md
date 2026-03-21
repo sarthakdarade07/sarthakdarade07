@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Darade</h1>
-<h3 align="center">🚀 Computer Science Engineer | 💻 Full Stack Developer | 🤖 ML Enthusiast</h3>
+<h3 align="center">🚀 Computer Science Engineer | 💻 Full Stack Developer |</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Machine+Learning+Explorer;Competitive+Programmer;Always+Learning+New+Things" />
@@ -10,8 +10,8 @@
 ## 🧠 About Me
 
 ✨ Passionate about Computer Science and always curious to explore new technologies  
-🔍 Interested in **Machine Learning, DBMS & Full Stack Development**  
-🚀 Working on **AI apps, dashboards & real-world systems**  
+🔍 Interested in **DBMS & Java Full Stack Development**  
+🚀 Working on **websites,Java FullStack, dashboards & real-world systems**  
 💡 Love solving problems on **LeetCode & Codeforces**  
 🤝 Always open to collaboration and impactful projects  
 
@@ -30,12 +30,12 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,r" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
 </p>
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react,native" />
 </p>
 
 ### 🧠 AI / ML
@@ -46,23 +46,21 @@
 <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 </p>
 
 ### 🗄️ Databases & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+<!--
 ### 🔌 Hardware & Networking
 <p>
 <img src="https://skillicons.dev/icons?i=arduino" />
 <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco"/>
 <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi"/>
 </p>
-
+-->
 ---
 
 ## 📊 GitHub Analytics
@@ -92,11 +90,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakdarade07&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
-## 💎 Fun Fact
-
-⚡ I turn ☕ coffee into scalable code and innovative solutions  
 
 ---
 
