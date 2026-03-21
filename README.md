@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Computer Science Engineer | 💻 Full Stack Developer |</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Machine+Learning+Explorer;Competitive+Programmer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Competitive+Programmer;Always+Learning+New+Things" />
 </p>
 
 ---
