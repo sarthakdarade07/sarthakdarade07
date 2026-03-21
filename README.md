@@ -35,7 +35,7 @@
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,native" />
+<img src="https://skillicons.dev/icons?i=html,css,react,native,springboot" />
 </p>
 
 ### 🧠 AI / ML
