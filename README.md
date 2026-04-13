@@ -102,16 +102,6 @@ public class Sarthak {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarthakdarade07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
-
 ## 🎯 LeetCode Stats
 
 <div align="center">
