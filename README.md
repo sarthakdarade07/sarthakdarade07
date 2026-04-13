@@ -78,14 +78,6 @@ public class Sarthak {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarthakdarade07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdarade07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</div>
-
-<div align="center">
-
 ### 🔥 Contribution Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdarade07&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
