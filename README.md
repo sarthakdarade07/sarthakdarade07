@@ -1,89 +1,133 @@
-<h1 align="center">Hi 👋, I'm Sarthak Darade</h1>
-<h3 align="center">🚀 Computer Science Engineer | 💻 Full Stack Developer |</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;Competitive+Programmer;Always+Learning+New+Things" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sarthak%20Darade&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=🚀+Full+Stack+Java+Developer;💡+Competitive+Programmer;🔥+Always+Building+Something+New;🌐+Open+to+Collaboration!" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-darade-710274341/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakdarade07@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Sarthak_Darade)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthakdarade07)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sarthakdarade07&color=00F7FF&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-✨ Passionate about Computer Science and always curious to explore new technologies  
-🔍 Interested in **DBMS & Java Full Stack Development**  
-🚀 Working on **websites,Java FullStack, dashboards & real-world systems**  
-💡 Love solving problems on **LeetCode & Codeforces**  
-🤝 Always open to collaboration and impactful projects  
+```java
+public class Sarthak {
+    String name     = "Sarthak Darade";
+    String role     = "Full Stack Developer";
+    String focus    = "Java FullStack + DBMS";
+    String[] loves  = {"Problem Solving", "Building Projects", "Open Source"};
+    boolean openTo  = true; // collaboration & opportunities
 
----
+    void introduce() {
+        System.out.println("Turning ideas into scalable software 🚀");
+    }
+}
+```
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarthak-darade-710274341/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sarthakdarade07@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+- 🔍 Deep interest in **DBMS & Java Full Stack Development**
+- 🚀 Building **websites, dashboards & real-world systems**
+- 💡 Active problem solver on **LeetCode & Codeforces**
+- 🤝 Always open to impactful collaborations
 
 ---
 
 ## ⚡ Tech Stack
 
+<div align="center">
+
 ### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,native,springboot" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🧠 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🗄️ Databases & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!--
-### 🔌 Hardware & Networking
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi"/>
-</p>
--->
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarthakdarade07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=sarthakdarade07&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdarade07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-</p>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=sarthakdarade07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdarade07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</div>
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdarade07&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakdarade07&theme=tokyo-night&hide_border=true&radius=8" width="95%"/>
+
+</div>
 
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sarthak_Darade?theme=dark&font=Nunito&ext=heatmap" />
-</p>
+<div align="center">
 
---- 
+<img src="https://github-profile-trophy.vercel.app/?username=sarthakdarade07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-</p>
+</div>
+
+---
+
+## 🎯 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Sarthak_Darade?theme=dark&font=Nunito&ext=heatmap&border=0&radius=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
